@@ -1,0 +1,5 @@
+! Title: DanSnow's personal annoy list
+! Expires: 7 days
+! Homepage: https://github.com/DanSnow/personal-block-lists
+!
+news.tvbs.com.tw##.web-push

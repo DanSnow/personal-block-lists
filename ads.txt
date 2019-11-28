@@ -1,0 +1,7 @@
+! Title: DanSnow's personal ads list
+! Expires: 7 days
+! Homepage: https://github.com/DanSnow/personal-block-lists
+!
+||userstyles.org/ui/images/280x294.png$image
+||userstyles.org/ui/images/1172x156.png$image
+userstyles.org##div.us-stylecard--short:has(> .fallbackDiv)

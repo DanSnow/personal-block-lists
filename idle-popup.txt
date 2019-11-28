@@ -1,0 +1,18 @@
+! Title: DanSnow's personal idle popup list
+! Expires: 7 days
+! Homepage: https://github.com/DanSnow/personal-block-lists
+!
+buzzorange.com##.ui-front.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+buzzorange.com##.ui-front.ui-widget-overlay
+news.ltn.com.tw###idle-notice
+*.udn.com###show_box
+tw.appledaily.com##.fancybox-overlay-fixed.fancybox-overlay
+www.bnext.com.tw##.show.delay_full_cover_ad.fade.modal
+www.bnext.com.tw##.show.fade.modal-backdrop
+www.bnext.com.tw##body:style( overflow: unset !important; )
+www.chinatimes.com##.page-idle-prompt
+www.chinatimes.com##.show.fade.modal-backdrop
+www.chinatimes.com##body:style( overflow: unset !important; )
+www.managertoday.com.tw##.idleAds
+www.storm.mg###popup_idle
+www.techbang.com###idle-container
